@@ -1,2 +1,2 @@
-# WEB-3.0-SPOTIFY-CLONE
+# SPOTIFY-CLONE
 Web based spotify clone.
